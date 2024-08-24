@@ -1,0 +1,252 @@
+{
+  "heading": "Math Questions",
+  "topics": [
+    {
+      "heading": "Normal",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "We can write the number 4638 in a place value chart like this:<br>What is the 6 worth in 4638?",
+          "options": ["6 thousands", "6 hundreds", "6 tens", "6 ones"],
+          "answer": 1,
+          "image": "./assests/images/1.png",
+          "explanation": "The 6 is in the hundreds column, so it is worth 6 hundreds."
+        },
+        {
+          "questionNo": 2,
+          "question": "Choose the correct answer. 3 x 7 is the same as:",
+          "options": ["3 + 3 + 3", "7 + 7 + 7 + 7 + 7 + 7 + 7", "3 + 7", "7 + 7 + 7"],
+          "answer": 3,
+          "image": "",
+          "explanation": "3 x 7 is the same as 7 + 7 + 7."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which angle matches this crocodile's mouth?",
+          "options": ["90 degree", "180 degree", "45 degree"],
+          "answer": 2,
+          "image": "./assests/images/2.png",
+          "explanation": "This angle looks like it matches how wide the crocodile has opened its mouth."
+        },
+        {
+          "questionNo": 4,
+          "question": "A men's clothing store ordered some winter jumpers to sell. They ordered 29 red jumpers, 795 green jumpers, and 4 blue jumpers. How many winter jumpers did the store order in total?",
+          "options": ["829", "828", "827", "788"],
+          "answer": 1,
+          "image": "",
+          "explanation": "Number of red jumpers = 29, Number of green jumpers = 795, Number of blue jumpers = 4. Total number of winter jumpers ordered = 29 + 795 + 4. The sum is 828. The store ordered 828 winter jumpers in all."
+        },
+        {
+          "questionNo": 5,
+          "question": "In a competition, Kiara scored 4121 points, John scored 3140 points, and Jake scored 2406 points. Total points scored by them altogether are:",
+          "options": ["6997", "9767", "9666", "9667"],
+          "answer": 3,
+          "image": "",
+          "explanation": "Kiara's points: 4121, John's points: 3140, Jake's points: 2406. Total points scored by them altogether = 4121 + 3140 + 2406 = 9667."
+        },
+        {
+          "questionNo": 6,
+          "question": "Fill in the blank by looking into the clock:<br>_____ minutes to 3 O’clock.",
+          "options": ["35 minutes", "40 minutes", "45 minutes", "60 minutes"],
+          "answer": 1,
+          "image": "./assests/images/3.png",
+          "explanation": "Current time shown on the clock = 2:20. Therefore, 40 minutes are left until 3:00."
+        },
+        {
+          "questionNo": 7,
+          "question": "Which part of the following fraction represents the shaded part of the given figures?",
+          "options": ["2/4 + 3/4", "1/4 + 3/4", "3/4 + 3/4", "1/4 + 1/4"],
+          "answer": 0,
+          "image": "./assests/images/4.png",
+          "explanation": "In figure: Number of equal parts = 4, Number of shaded parts = 2/4. In figure: Number of equal parts = 4, Number of shaded parts = 3/4. 2/4 + 3/4 fraction represents the shaded part of the given figures."
+        },
+        {
+          "questionNo": 8,
+          "question": "Choose the missing digit.",
+          "options": ["1", "2", "3", "4"],
+          "answer": 2,
+          "image": "./assests/images/5.png",
+          "explanation": "Start on the right. Look at the ones column. You want to find a number that, when 6 is subtracted from it, gives a difference of 7. 13 − 6 = 7. The missing number is 3. Remember to carry over the tens."
+        },
+        {
+          "questionNo": 9,
+          "question": "What is the weight of one ball if the weight of four balls is 900 grams?",
+          "options": ["Two hundred and twenty", "Four hundred", "Two hundred and thirty-five", "Two hundred and twenty-five"],
+          "answer": 3,
+          "image": "",
+          "explanation": "Number of balls = 4, Weight of 4 balls = 900 grams. Weight of each ball = 900 / 4 grams = 225 grams. i.e., two hundred and twenty-five."
+        },
+        {
+          "questionNo": 10,
+          "question": "Samantha has 24 cupcakes. She wants to put them into 6 equal groups. How many cupcakes will be in each group?",
+          "options": ["2", "3", "4", "5"],
+          "answer": 2,
+          "image": "",
+          "explanation": "Total number of cupcakes = 24. Number of groups = 6. To find out how many cupcakes will be in each group, divide the total number of cupcakes by the number of groups: 24 ÷ 6 = 4. So, the correct answer is 4."
+        }
+      ]
+    },
+    {
+      "heading": "Level 1",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which number is shown here?",
+          "options": ["2614", "2314", "2324", "2624"],
+          "answer": 0,
+          "image": "./assests/images/6.png",
+
+          "explanation": "The number shown is 2614.\n\n2 thousands (2000), 6 hundreds (600), 1 ten (10), and 4 (ones) is 2614."
+        },
+        {
+          "questionNo": 2,
+          "question": "Which of the following is not a common factor of 18 and 27?",
+          "options": ["1", "3", "6", "9"],
+          "answer": 2,
+          "explanation": "Factors of 18 = 1, 2, 3, 6, 9, 18\nFactors of 27 = 1, 3, 9, 27\n\nCommon factors = 1, 3, 9\n\nTherefore, among the given options, 6 is not a common factor of 18 and 27."
+        },
+        {
+          "questionNo": 3,
+          "question": "Round 62.97 to one decimal place.",
+          "options": ["62.9", "62.1", "63.0", "63.9"],
+          "answer": 2,
+          "explanation": "62.97 is between 62.9 and 63.0."
+        },
+        {
+          "questionNo": 4,
+          "question": "Sara talked on the telephone to two of her friends. She talked to Gina for ¼ hour and to Emily for ⅓ hour. How much time did Sara spend on the telephone?",
+          "options": ["1/6 hour", "2/7 hour", "5/2 hour", "7/12 hour"],
+          "answer": 3,
+          "explanation": "Time taken to talk to Gina = ¼ hour\nTime taken to talk to Emily = ⅓ hour\n\nTotal time spent by Sara on the telephone = ¼ + ⅓ = 7/12 hours."
+        },
+        {
+          "questionNo": 5,
+          "question": "Pole A is twice as long as pole B. Pole C is 260 cm shorter than pole A. Pole C is 1040 cm long. What is the total length of the three poles?",
+          "options": ["4128 cm", "3940 cm", "2990 cm", "2480 cm"],
+          "answer": 2,
+          "explanation": "Length of Pole C = 1040 cm\nLength of Pole A = 1040 + 260 = 1300 cm\nLength of Pole B = 1300 / 2 = 650 cm\n\nTotal length of the three poles = 1040 + 1300 + 650 = 2990 cm."
+        },
+        {
+          "questionNo": 6,
+          "question": "If the clock is 45 minutes slow, then the correct time after half an hour will be ______",
+          "options": ["6 O’clock", "6:30", "7 O’clock", "5:30"],
+          "answer": 1,
+          "image": "./assests/images/7.png",
+
+          "explanation": "Time shown on the clock is 5:15.\n\nSince the clock is 45 minutes slow, the correct time will be 6 O’clock.\n\nTime after half an hour will be 6:30."
+        },
+        {
+          "questionNo": 7,
+          "question": "The given graph shows the number of spectators that were present at each event of the Olympic games.\n\n <br> The difference between the maximum and minimum number of spectators in these events is _______.",
+          "options": ["100", "80", "60", "120"],
+          "answer": 3,
+          "image": "./assests/images/8.png",
+          "explanation": "Maximum number of spectators = 200\nMinimum number of spectators = 80\n\nTherefore, the required difference = 200 - 80 = 120."
+        },
+        {
+          "questionNo": 8,
+          "question": "Sam had 1960 seashells. He gave 376 seashells to Max and packed the rest into boxes of 12 seashells each. How many boxes of seashells will be made?",
+          "options": ["123", "156", "132", "122"],
+          "answer": 2,
+          "explanation": "Total number of seashells Sam had = 1960\nNumber of seashells he gave to Max = 376\n\nRemaining seashells with him = 1960 - 376 = 1584\n\nSam packed 1584 seashells into boxes of 12 seashells each.\n\nSo, the number of boxes of seashells she made = 1584 / 12 = 132."
+        },
+        {
+          "questionNo": 9,
+          "question": "For a project, Sanya cut a piece of paper into a shape with four sides, but none of them are of the same length. What could be the shape of the paper?",
+          "options": ["Rectangle", "Quadrilateral", "Square", "Pentagon"],
+          "answer": 1,
+          "explanation": "A quadrilateral is a shape with four sides, and it doesn't require that any of the sides be the same length. Since the shape has four sides and none are of the same length, it could be a quadrilateral.\n\nA rectangle and square have four sides, but in a rectangle, opposite sides are equal, and in a square, all four sides are equal.\n\nThe pentagon has five sides, which doesn't match the description."
+        },
+        {
+          "questionNo": 10,
+          "question": "The sum of the numbers on which two colored balloons is more than 8500 if they are rounded off to the nearest tens?",
+          "options": ["Red and yellow", "Yellow and orange", "Red and orange", "None of these"],
+          "answer": 1,
+          "image": "./assests/images/9.png",
+
+          "explanation": "Sum of the numbers on red and yellow balloons = 3314 + 5131 = 8445\n\nSum of numbers on yellow and orange balloons = 5131 + 4136 = 9267\n\nSum of numbers on red and orange balloons = 3314 + 4136 = 7450\n\nSo, the sum of numbers on yellow and orange balloons is more than 8500."
+        }
+      ]
+    },
+    {
+      "heading": "Level 2",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Find the value of (P x Q) - R.",
+          "options": ["24", "28", "20", "30"],
+          "answer": 3,
+          "image":"./assests/images/12.png",
+          "explanation": "P = 4, Q = 8, and R = 2. (P x Q) - R = (4 x 8) - 2 = 32 - 2 = 30."
+        },
+        {
+          "questionNo": 2,
+          "question": "What part of this figure is coloured green?",
+          "options": ["1/10", "2/8", "3/10", "3/8"],
+          "answer": 2,
+          "image": "./assests/images/10.png",
+
+          "explanation": "Total number of parts = 10, Number of green parts = 3. 3/10 part of the sheet is green."
+        },
+        {
+          "questionNo": 3,
+          "question": "Ava takes ⅙ hour to walk to the playground and ⅓ hour to walk from the playground to the school. How much time does it take her to walk to the playground and then to the school?",
+          "options": ["½ hour", "¼ hour", "⅙ hour", "⅔ hour"],
+          "answer": 0,
+
+          "explanation": "Total time taken = ⅙ + ⅓ = ½ hour."
+        },
+        {
+          "questionNo": 4,
+          "question": "Find the missing angle in the given figure.",
+          "options": ["30°", "35°", "45°", "50°"],
+          "answer": 3,
+          "image": "./assests/images/11.png",
+          "explanation": "Given angles are 35° and 95°. Sum of angles of a triangle is 180°. The missing angle is 50°."
+        },
+        {
+          "questionNo": 5,
+          "question": "If Soha’s heart beats 72 times in one minute, how many times does it beat in one hour?",
+          "options": ["4320", "3240", "4380", "3880"],
+          "answer": 0,
+          "explanation": "72 beats/minute x 60 minutes = 4320 beats in one hour."
+        },
+        {
+          "questionNo": 6,
+          "question": "Mrs Kean had 17.85 m of ribbon. She cut 9 smaller pieces each of length 0.35 m from it. How many metres of ribbon were left?",
+          "options": ["3.15 m", "14.7 m", "8.85 m", "17.5 m"],
+          "answer": 1,
+          "explanation": "Total length of ribbon = 17.85 m, Length of 9 pieces = 9 x 0.35 = 3.15 m, Remaining = 17.85 - 3.15 = 14.7 m."
+        },
+        {
+          "questionNo": 7,
+          "question": "Shreya had 480 kg of rice. She poured 3/8 of it into a rice container and packed 3/5 of the remaining into 6 bags. How much rice was there in each bag?",
+          "options": ["40 Kg", "20 Kg", "30 Kg", "50 Kg"],
+          "answer": 2,
+          "explanation": "Total rice = 480 Kg, 3/8 of 480 Kg = 180 Kg, Remaining = 300 Kg. Rice in each bag = 180/6 = 30 Kg."
+        },
+        {
+          "questionNo": 8,
+          "question": "Find the value of R - P x Q, if (i) 116.58 / 8.7 = P, (ii) Q + 9.18 = 15.06, (iii) 912.066 - R = 418.05.",
+          "options": ["415.278", "318.495", "415.218", "381.670"],
+          "answer": 2,
+          "explanation": "P = 13.4, Q = 5.88, R = 494.01. R - P x Q = 494.01 - 13.4 x 5.88 = 415.218."
+        },
+        {
+          "questionNo": 9,
+          "question": "A pole is painted red and white. The red portion is 1.8 m long and the white portion is three times as long as the red portion. How long is the pole?",
+          "options": ["5.4 m", "7.2 m", "3.6 m", "None of these"],
+          "answer": 1,
+          "explanation": "Red portion = 1.8 m, White portion = 3 x 1.8 m = 5.4 m. Total length = 1.8 + 5.4 = 7.2 m."
+        },
+        {
+          "questionNo": 10,
+          "question": "Alex plans to tile his kitchen floor with green square tiles. Each side of the tile is 10 cm. His kitchen is 220 cm in length and 180 cm wide. How many tiles will he need?",
+          "options": ["296", "384", "370", "396"],
+          "answer": 3,
+          "explanation": "Area of floor = 220 x 180 = 39600 square cm. Area of a tile = 10 x 10 = 100 square cm. Number of tiles = 39600 / 100 = 396."
+        }
+      ]
+    }
+  ]
+}
